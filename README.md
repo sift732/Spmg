@@ -1,6 +1,5 @@
-# Spotify Playlist Sorter
+# Spotify Playlist Manager & その他
 
-このプロジェクトは、Spotify プレイリストを **リリース日順** に自動で並べ替える Python スクリプトです。
 ユーザー自身の Spotify アカウントを使って操作するため、**Authorization Code Flow** を利用しています。
 
 ---
